@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<books>
+   <book> 
+   	  <title>Basic XML</title>
+   	     <testa>
+   	        <testb>lol</testb>
+   	     </testa>
+      <price>100</price>
+      <qty>5</qty>
+   </book>
+   <book>
+      <title>Basic Java</title>
+      <price>200</price>
+      <qty>15</qty>
+	</book>
+</books>
